@@ -1,0 +1,5 @@
+1. microsoft word
+2. cisco paket tracer
+3. HTML
+4. Penyuntingan video
+5. Git dan Guthub
