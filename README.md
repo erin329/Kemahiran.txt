@@ -4,3 +4,4 @@
 3. HTML
 4. Penyuntingan video
 5. Git dan Guthub
+6. kemahiran membuat RJ45
